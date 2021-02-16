@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles/header.css","styles/main.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;ACJA;AACA;AACA;AACA;AACA;AACA","file":"all.css","sourcesContent":[".header {\r\n  background-color: red;\r\n  padding: 10px;\r\n}\r\n",".main {\r\n  font-size: large;\r\n  font-family: \"Courier New\", Courier, monospace;\r\n  color: blue;\r\n}\r\n"]}
