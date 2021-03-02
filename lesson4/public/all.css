@@ -1,0 +1,12 @@
+.header {
+  background-color: red;
+  padding: 10px;
+}
+
+.main {
+  font-size: large;
+  font-family: "Courier New", Courier, monospace;
+  color: blue;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInN0eWxlcy9oZWFkZXIuY3NzIiwic3R5bGVzL21haW4uY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUNKQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0EiLCJmaWxlIjoiYWxsLmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi5oZWFkZXIge1xyXG4gIGJhY2tncm91bmQtY29sb3I6IHJlZDtcclxuICBwYWRkaW5nOiAxMHB4O1xyXG59XHJcbiIsIi5tYWluIHtcclxuICBmb250LXNpemU6IGxhcmdlO1xyXG4gIGZvbnQtZmFtaWx5OiBcIkNvdXJpZXIgTmV3XCIsIENvdXJpZXIsIG1vbm9zcGFjZTtcclxuICBjb2xvcjogYmx1ZTtcclxufVxyXG4iXX0= */
